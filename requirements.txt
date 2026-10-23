@@ -1,5 +1,5 @@
-
 streamlit
+streamlit-webrtc
 numpy<2
 Pillow
 joblib
@@ -7,3 +7,4 @@ scikit-learn
 insightface==0.7.3
 onnxruntime
 opencv-python-headless
+av
